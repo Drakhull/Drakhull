@@ -1,6 +1,6 @@
-## Boas-vindas ao meu GitHub! Me chamo Iuri 🦇 
 
 <div align="center">
+  <h2> Boas-vindas ao meu GitHub! Me chamo Iuri 🦇 </h2>
   <a href="https://www.linkedin.com/in/iuri-viana-3baa97283/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Blog" />
   </a>
