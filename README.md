@@ -11,6 +11,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakhull&layout=compact&theme=dracula" alt="Top Langs" />
 </div>
 
+Atualmente estudo no Instituto Federal da Bahia (IFBA) e possuo uma bolsa de pesquisa pelo CNPq na SESAB (Secretária de Saúde do Estado da Bahia)
+
 <!--
 **Drakhull/Drakhull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
