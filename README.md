@@ -26,17 +26,17 @@
 <h3> Também já tive algum tipo contato com as seguintes tecnologias: </h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=000000" />
-  <img src="https://img.shields.io/badge/C%23-FFFFFF?style=for-the-badge&logo=c-sharp&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/HTML-FFFFFF?style=for-the-badge&logo=html5&logoColor=000000" />
-  <img src="https://img.shields.io/badge/CSS-FFFFFF?style=for-the-badge&logo=css3&logoColor=000000" />
-  <img src="https://img.shields.io/badge/.NET-FFFFFF?style=for-the-badge&logo=.net&logoColor=000000" />
-  <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Spring-FFFFFF?style=for-the-badge&logo=spring&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Django-FFFFFF?style=for-the-badge&logo=django&logoColor=000000" />
-  <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=000000" />
-  <img src="https://img.shields.io/badge/SQLite-FFFFFF?style=for-the-badge&logo=sqlite&logoColor=000000" />
+	<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FFFFFF" />
+	<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=FFFFFF" />
+	<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" />
+	<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+	<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
+	<img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
+	<img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=FFFFFF" />
+	<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
+	<img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=FFFFFF" />
+	<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF" />
+	<img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=FFFFFF" />
+	<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />
+	<img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" />
 </div>
