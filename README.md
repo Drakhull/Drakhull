@@ -14,7 +14,7 @@
 <h3>Linguagens presentes no meu GitHub: </h3>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakhull&layout=compact&theme=dracula" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuriiViana&layout=compact&theme=dracula" alt="Top Langs" />
 </div>
 
 <div align="center">
